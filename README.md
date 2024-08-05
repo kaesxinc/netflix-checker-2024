@@ -10,7 +10,7 @@
   
 <div align="center">
   <a href="https://github.com/kaesxinc/netflix-checker-2024">
-    <img src="https://raw.githubusercontent.com/kaesxinc/netflix-checker-2024/main/Screenshot_2024-08-06-00-12-49-365_com.miui.gallery-edit.jpg">
+    <img src="https://raw.githubusercontent.com/kaesxinc/netflix-checker-2024/main/program.jpg">
   </a>
   
 
