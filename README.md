@@ -26,17 +26,17 @@
 ### 🛠 Kurulum
 
 ```
-
+Merhaba arkadaşım, hoş geldin. Programın kurulumu çok basit. Öncelikle masaüstünde bir klasör oluştur. Sonra bu rar dosyasındaki her dosyayı ve klasörü bu oluşturduğun klasörün içine at. Daha sonra, "config" diye bir klasör var; ona tıkla ve içine gir. "Accounts" kısmına elleme, orayı program kendisi dolduruyor. "Combo" kısmını istersen programdan yaz, istersen kendin doldur. Eğer elinde proxy varsa, bunu bir txt dosyasına koyarsın; yoksa da zorunlu değil. Sonra programı çalıştır.
 ```
 ---------------------------------------
 
-### 🏆 Features 
-- Ultra fast hits.
-- Custom algorithm to minimise cpu usage. 
-- Proxy support (HTTPS, SOCKS4, SOCKS5).
-- High CPM.
-- Save hits to file.
+### 🏆 Özellikler
+- Ultra hızlı tarama.
+- Cpu kullanımını en aza indirmek için özel algoritma.
+- Proxy desteği (HTTPS, SOCKS4, SOCKS5).
+- Yüksek CPM.
+- Hit hesaplara özel dosya.
 ---------------------------------------
 
-> **Warning**
-> I'm not held responsible for any actions performed while using this program.
+> **Uyarı**
+> Bu programı kullanırken gerçekleştirilen herhangi bir eylemden sorumlu değilim.
