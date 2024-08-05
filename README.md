@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://img.shields.io/github/contributors/Plasmonix/Netflixer.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/forks/Plasmonix/Netflixer.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/Plasmonix/Netflixer.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/issues/Plasmonix/Netflixer.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/license/Plasmonix/Netflixer.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/contributors/kaesxinc/netflix-checker-2024?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/forks/kaesxinc/netflix-checker-2024?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/kaesxinc/netflix-checker-2024?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/issues/kaesxinc/netflix-checker-2024?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/license/kaesxinc/netflix-checker-2024?style=for-the-badge"/>
 </p>
   
 ---------------------------------------
