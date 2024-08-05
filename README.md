@@ -25,9 +25,8 @@
 ---------------------------------------
 ### 🛠 Kurulum
 
-```
 Merhaba arkadaşım, hoş geldin. Programın kurulumu çok basit. Öncelikle masaüstünde bir klasör oluştur. Sonra bu rar dosyasındaki her dosyayı ve klasörü bu oluşturduğun klasörün içine at. Daha sonra, "config" diye bir klasör var; ona tıkla ve içine gir. "Accounts" kısmına elleme, orayı program kendisi dolduruyor. "Combo" kısmını istersen programdan yaz, istersen kendin doldur. Eğer elinde proxy varsa, bunu bir txt dosyasına koyarsın; yoksa da zorunlu değil. Sonra programı çalıştır.
-```
+
 ---------------------------------------
 
 ### 🏆 Özellikler
